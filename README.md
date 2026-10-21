@@ -33,27 +33,6 @@
 
 Also: pandas, XGBoost, YOLOv8, Streamlit, Tableau, Spring Boot
 
-### Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| ⚽ **[Player Tracking & Movement Analysis](https://github.com/emanuele-clc/player-tracking-movement-analysis)** · [live demo](https://emanuele-clc.github.io/player-tracking-movement-analysis/) | Turns real football video into player tracking data: detection, tracking, automatic pitch calibration, team clustering, heatmaps and an off-ball space-creation metric | YOLOv8, ByteTrack, OpenCV, Streamlit |
-| 🎯 **[Expected Goals (xG) Model](https://github.com/emanuele-clc/expected-goals-xg-model)** · [live dashboard](https://emanuele-clc.github.io/expected-goals-xg-model/) | Shot-quality model on 17,000+ real shots from 8 competitions, with cross-validation, bootstrap significance tests and an interactive dashboard | scikit-learn, XGBoost, PyTorch |
-| 🏎️ **[F1 Strategy & ML](https://github.com/emanuele-clc/f1-vision-analytics)** · [live demo](https://emanuele-clc.github.io/f1-vision-analytics/) | Lap-time prediction (R² ~0.96), pit-stop strategy optimiser with Monte Carlo simulation and backtesting on real races | FastF1, Gradient Boosting, Streamlit |
-| 🛒 **[Olist Data Warehouse](https://github.com/emanuele-clc/olist-dwh)** | Data quality pipeline, star-schema data warehouse and OLAP dashboards on a real e-commerce dataset | pandas, SQLite, Tableau |
-| 🗺️ **[Urban Route Planning in PDDL+](https://github.com/emanuele-clc/urban-route-planning-via-pddl-plus)** | Builds PDDL+ navigation problems from real Dublin street data and replays the plans in a traffic simulator | ENHSP, OSMnx, SUMO |
-| 💪 **[Gym Planner](https://github.com/emanuele-clc/gym-planner)** · [live app](https://emanuele-clc.github.io/gym-planner/) | Mobile-first bodyweight training app with levels, set logging and rest timers | Angular, TypeScript, Tailwind |
-
-### Latest activity
-
-<!--RECENT:START-->
-- 🔨 **[gym-planner](https://github.com/emanuele-clc/gym-planner)** <sub>(updated 01 Oct 2026)</sub>
-- 🔨 **[urban-route-planning-via-pddl-plus](https://github.com/emanuele-clc/urban-route-planning-via-pddl-plus)** <sub>(updated 13 Sep 2026)</sub>
-- 🔨 **[olist-dwh](https://github.com/emanuele-clc/olist-dwh)** <sub>(updated 21 Jul 2026)</sub>
-- 🔨 **[f1-vision-analytics](https://github.com/emanuele-clc/f1-vision-analytics)** <sub>(updated 07 Jul 2026)</sub>
-- 🔨 **[player-tracking-movement-analysis](https://github.com/emanuele-clc/player-tracking-movement-analysis)** – Computer-vision pipeline turning real broadcast/drone football video into player tracking data — detection, tracking, automatic pitch calibration, team clustering, heatmaps, and an original off-ball space-creation metric. <sub>(updated 05 Jul 2026)</sub>
-<!--RECENT:END-->
-
 ### Contributions
 
 <picture>
